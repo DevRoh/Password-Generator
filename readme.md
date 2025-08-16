@@ -4,7 +4,7 @@ A sleek, modern password generator web application with customizable options and
 Built with **HTML**, **CSS**, and **JavaScript** for a responsive and visually appealing design.
 
 ## 🌐 Live Demo
-[🔗 Click here to try it out]()
+[🔗 Click here to try it out](keygenx.vercel.app)
 
 ## ✨ Features
 - **Customizable Length** – Choose password length via slider.  
